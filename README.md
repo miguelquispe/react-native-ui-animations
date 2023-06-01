@@ -23,3 +23,6 @@ Reference: [Dribble](https://dribbble.com/shots/17692231-Tab-Bar-Micro-Interacti
 [Expo](https://docs.expo.dev/) - SDK ^46
 
 [React Native](https://reactnative.dev/) - v.71
+
+
+Twitter: [@miguelquispecom](https://twitter.com/miguelquispecom)
