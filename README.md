@@ -2,6 +2,8 @@
 
 ### Tab Bar
 
+https://github.com/miguelquispe/react-native-ui-animations/assets/792080/56424ebc-789e-4da7-a555-e1f9acedf443
+
 Made with Lottie and Reanimated
 
 Reference: [Dribble](https://dribbble.com/shots/17692231-Tab-Bar-Micro-Interaction)
